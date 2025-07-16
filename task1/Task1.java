@@ -18,6 +18,16 @@ public class Task1 {
     }
 }
 
+    /*
+    1. Generar los números
+    2. Definir la función
+        1. Recibir un array
+        2. Select min-max
+        3. Iterar sobre el array comprobando min-max
+        4. Realizar la resta
+        5. Devolver la resta
+     3. Mostrar en pantalla el resultado.
+     */
 
 
 //La clave para encontrar el mínimo y el máximo es usar una estrategia sencilla:
