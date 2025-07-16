@@ -1,7 +1,7 @@
 package org.example.task1;
 
 public class Task1 {
-    public static int calcularDiferencia(int[] array) {
+    public static int calculateDifference(int[] array) {
         int min = array[0];
         int max = array[0];
 
